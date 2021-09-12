@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋👋👋
+
+- 🔭 I’m currently working on [2RP Net](https://www.2rpnet.com.br/pt)
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
+- ⚡ Fun fact: ...
+
+## You can find me at 
+- 📫 How to reach me: ...
 
 <!--
 **ChristianTudeschini/christiantudeschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
