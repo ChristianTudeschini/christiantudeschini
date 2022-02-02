@@ -19,12 +19,8 @@ Crossing
 
 ---
 
-<img align="left"
-    src="https://github-readme-stats.vercel.app/api?username=christiantudeschini&show_icons=true&locale=en"
-    alt="christiantudeschini" />
-
-<h3 align="right">Languages and Tools that i'm currently using:</h3>
-<p align="right"> 
+<h3 align="center">Languages and Tools that i'm currently using:</h3>
+<p align="center"> 
 <a
     href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -48,16 +44,20 @@ Crossing
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" /> </a> </p>
       
-<p><img align="right"
+<img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=christiantudeschini&show_icons=true&locale=en&layout=compact"
-    alt="christiantudeschini" /></p>
+    alt="christiantudeschini" />
+    
+<img align="left"
+    src="https://github-readme-stats.vercel.app/api?username=christiantudeschini&show_icons=true&locale=en"
+    alt="christiantudeschini" width="50%" />
     
 </br></br></br></br></br></br></br>
 
 ---
 
-<h3 align="left">Let's talk!</h3>
-<p align="left">
+<h3 align="center">Let's talk!</h3>
+<p align="center">
   <a href="https://twitter.com/tgenius__22" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="tgenius__22" height="30" width="40" /></a>
@@ -72,7 +72,9 @@ Crossing
       alt="christiantudeschini" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support my work ;)</h3>
-<p><a href="https://www.buymeacoffee.com/christudeschini"> <img align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="140"
-      alt="christiantudeschini" /></a></p><br><br>
+---
+
+<h3 align="center">Support my work ;)</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/christudeschini"> <img align="center"
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="christudeschini" /></a></p><br><br>
