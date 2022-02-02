@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Christian (aka Chris)</h1>
+<h1 align="center">Hi, I'm Christian</h1>
 <h3 align="center">A lover of things related to PHP and Front End</h3>
 
 <p><img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="380" /></p>
