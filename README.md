@@ -76,5 +76,5 @@ Crossing
 
 <h3 align="center">Support my work ;)</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/christudeschini"> <img align="center"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="30%"
       alt="christudeschini" /></a></p><br><br>
