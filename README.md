@@ -52,7 +52,7 @@ Crossing
     src="https://github-readme-stats.vercel.app/api?username=christiantudeschini&show_icons=true&locale=en"
     alt="christiantudeschini" width="50%" />
     
-</br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 
 ---
 
