@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Christian (a.k.a as Chris)</h1>
+<h1 align="center">Hello, I'm Christian (aka Chris)</h1>
 <h3 align="center">A lover of things related to PHP and Front End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiantudeschini&label=Profile%20views&color=0e75b6&style=flat" alt="christiantudeschini" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **christiantudeschini@gmail.com**
 
-- ⚡ Fun fact: I love **Alternative Rock** and **K-Pop** music (it's kinda ironic, isn't it?)
+- ⚡ Fun fact: I love **Alternative Rock** and **K-Pop** music (it's kinda ironic, isn't it?) and... i **LOVE** Animal Crossing
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christiantudeschini&show_icons=true&locale=en" alt="christiantudeschini" /></p>
 
