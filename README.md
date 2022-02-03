@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Drupal, PHP, JavaScript, CSS, HTML...**
 
-- 📫 How to reach me: **christiantudeschini@gmail.com**
-
 - ⚡ Fun facts: My favorite music genres are **Alternative Rock** and **K-Pop** (it's kinda ironic, isn't it?) and my favorite game is Animal
 Crossing
 
@@ -57,24 +55,16 @@ Crossing
 ---
 
 <h3 align="center">Let's talk!</h3>
-<p align="center">
-  <a href="https://twitter.com/tgenius__22" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="tgenius__22" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/christian-tudeschini-pereira-14a251170" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="christian-tudeschini-pereira-14a251170" height="30" width="40" /></a>
-  <a href="https://instagram.com/christiantudeschini" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="christiantudeschini" height="30" width="40" /></a>
-  <a href="https://www.behance.net/christiantudeschini" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-      alt="christiantudeschini" height="30" width="40" /></a>
-</p>
+
+<div align="center">
+  <a href="https://instagram.com/christiantudeschini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:christiantudeschini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/christiantudeschini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
 
 ---
 
 <h3 align="center">Support my work ;)</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/christudeschini"> <img align="center"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="30%"
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="25%"
       alt="christudeschini" /></a></p><br><br>
