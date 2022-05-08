@@ -12,8 +12,7 @@
 
 - 💬 Ask me about **Drupal, PHP, JavaScript, CSS, HTML...**
 
-- ⚡ Fun facts: My favorite music genres are **Alternative Rock** and **K-Pop** (it's kinda ironic, isn't it?) and my favorite game is Animal
-Crossing
+- ⚡ Fun facts: My favorite music genres are **Alternative Rock** and **K-Pop** (it's kinda ironic, isn't it?) and my (current) favorite game is Taiko no Tatsujin
 
 ---
 
