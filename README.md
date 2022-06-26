@@ -3,7 +3,7 @@
 
 <!-- <p><img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="380" /></p> -->
 
-- 💼 Full Stack Developer at [2RP Net](https://www.2rpnet.com.br/en)
+- 💼 Full Stack Developer
 
 - 🌱 Currently learning **Laravel**
 
