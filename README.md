@@ -3,7 +3,7 @@
 
 <!-- <p><img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="380" /></p> -->
 
-- 💼 Full Stack Developer
+- 💼 Drupal Developer at CI&T
 
 - 🌱 Currently learning **Laravel**
 
