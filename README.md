@@ -1,8 +1,6 @@
 <h1 align="center">🌟 Christian Tudeschini 🌟</h1>
 <h3 align="center">A lover of things related to PHP and Front End</h3>
 
-<!-- <p><img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="380" /></p> -->
-
 - 💼 Drupal Developer at CI&T
 
 - 🌱 Currently learning **Laravel**
@@ -60,10 +58,3 @@
   <a href = "mailto:christiantudeschini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christiantudeschini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
-
----
-
-<h3 align="center">Support my work ;)</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/christudeschini"> <img align="center"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="25%"
-      alt="christudeschini" /></a></p><br><br>
