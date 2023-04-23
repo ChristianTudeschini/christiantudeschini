@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Christian Tudeschini 🌟</h1>
 <h3 align="center">A lover of things related to PHP and Front End</h3>
 
-- 💼 Drupal Developer at CI&T
+- 💼 Full Stack Developer
 
 - 🌱 Currently learning **Laravel**
 
