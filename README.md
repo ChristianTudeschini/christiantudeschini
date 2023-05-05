@@ -49,8 +49,8 @@
     src="https://github-readme-stats.vercel.app/api?username=christiantudeschini&show_icons=true&locale=en&bg_color=00000000"
     alt="christiantudeschini" />
     
-</br></br></br></br></br></br></br></br></br>
-
+</br></br></br></br></br></br></br></br>
+<br>
 ---
 
 <h3 align="center">Let's talk!</h3>
