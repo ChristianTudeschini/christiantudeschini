@@ -41,15 +41,15 @@
 
 <br>
 
-<img align="left"
+<img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=christiantudeschini&show_icons=true&locale=en&layout=compact&bg_color=00000000"
     alt="christiantudeschini" width="40%" />
     
-<img align="right"
+<img align="left"
     src="https://github-readme-stats.vercel.app/api?username=christiantudeschini&show_icons=true&locale=en&bg_color=00000000"
     alt="christiantudeschini" />
     
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br>
 <br>
 ---
 
