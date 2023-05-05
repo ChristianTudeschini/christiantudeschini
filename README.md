@@ -38,23 +38,24 @@
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" /> </a> </p>
-      
-<img align="right"
+
+<br>
+
+<img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=christiantudeschini&show_icons=true&locale=en&layout=compact&bg_color=00000000"
+    alt="christiantudeschini" width="40%" />
+    
+<img align="right"
+    src="https://github-readme-stats.vercel.app/api?username=christiantudeschini&show_icons=true&locale=en&bg_color=00000000"
     alt="christiantudeschini" />
     
-<img align="left"
-    src="https://github-readme-stats.vercel.app/api?username=christiantudeschini&show_icons=true&locale=en&bg_color=00000000"
-    alt="christiantudeschini" width="50%" />
-    
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 
 ---
 
 <h3 align="center">Let's talk!</h3>
 
 <div align="center">
-  <a href="https://instagram.com/christiantudeschini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:christiantudeschini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christiantudeschini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
