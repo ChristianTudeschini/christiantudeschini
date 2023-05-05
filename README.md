@@ -40,7 +40,7 @@
       width="40" height="40" /> </a> </p>
       
 <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=christiantudeschini&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=christiantudeschini&show_icons=true&locale=en&layout=compact&bg_color=00000000"
     alt="christiantudeschini" />
     
 <img align="left"
