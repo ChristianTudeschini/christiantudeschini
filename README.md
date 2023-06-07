@@ -3,14 +3,10 @@
 
 - 💼 Full Stack Developer
 
-- 🌱 Currently learning **Laravel**
-
 - 👨‍💻 All of my projects are available at
 [https://christiantudeschini.github.io/](https://christiantudeschini.github.io/)
 
-- 💬 Ask me about **Drupal, PHP, JavaScript, CSS, HTML...**
-
-- ⚡ Fun facts: My favorite music genres are **Alternative Rock** and **K-Pop** (it's kinda ironic, isn't it?) and my (current) favorite game is Taiko no Tatsujin
+- 💬 Ask me about **PHP, Drupal, JavaScript, CSS, HTML...**
 
 ---
 
